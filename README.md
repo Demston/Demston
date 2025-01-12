@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About me:
 
-My name is Dmitry. Here I post my projects and developments. I am developing applications in Python. 
+My name is Dmitry. Here I post my projects and developments. I am developing applications in Python for automate my work in the office and at home.
 I have worked in the banking sector in IT. Also in the past I modeled in 3Ds Max.
 I love creativity and strive to create something interesting.
 
