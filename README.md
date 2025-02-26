@@ -6,7 +6,6 @@
 
 My name is Dmitry. Here I post my projects and developments. I am developing applications in Python for automate my work at the job and at home.
 I work in a banking sector in IT. Also in the past I modeled in 3Ds Max.
-I love creativity and strive to create something interesting.
 
 ---
 
