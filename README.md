@@ -19,7 +19,7 @@ My name is Dmitry. Here I post my projects and developments. I develop applicati
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="git" width="30" height="30" /></a>
   <a href="https://www.whatwg.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="git" width="30" height="30" /></a>
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="git" width="30" height="30" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="git" width="30" height="30" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="git" width="30" height="30" /></a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30" /></a>  
 
 --- 
