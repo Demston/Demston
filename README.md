@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About me:
 
-My name is Dmitry. Here I post my projects and developments. I develop applications in Python for work and at home.
+My name is Dmitry. I develop applications and maintain services in Python, work with databases, automate routine processes.
 
 ---
 
