@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About me:
 
-My name is Dmitry. I develop applications and maintain services in Python, work with databases, automate routine processes.
+My name is Dmitry. I develop applications and maintain services in Python, work with SQL DB, automate routine processes.
 
 ---
 
