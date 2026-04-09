@@ -26,7 +26,7 @@ Hi, I'm Dmitry — a Python Developer with focus on backend & automation. I buil
 
 --- 
 
-### 🌍 Social network:
+### 🌍 Social media:
 
   <div id="badges">
   	<a href="https://vk.com/id14007906" target="_blank">
