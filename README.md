@@ -20,7 +20,7 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="git" width="30" height="30" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="git" width="30" height="30" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="git" width="30" height="30" /></a>
-  <a href="https://www.whatwg.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="git" width="30" height="30" /></a>
+  <a href="https://www.whatwg.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="git" width="30" height="30" /></a>
   <a href="https://opencv.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="git" width="30" height="30" /></a>
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="git" width="30" height="30" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="git" width="30" height="30" /></a>
