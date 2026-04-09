@@ -36,6 +36,11 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
     </a>
   </div>
 
+  ### 📬 Contact me:
+  [![Telegram](https://shields.io)](https://t.me)
+  [![Email](https://shields.io)](mailto:твой_email@gmail.com)
+
+
  ---
 
 ### 📈️ GitHub statistics:
