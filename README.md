@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About me:
 
-I'm Dmitry — a Python Developer with focus on backend & automation. I build tools that solve real tasks — from full-stack web apps to enterprise messenger integrations. I spend about 50% of my workflow working with SQL databases. Git, Docker, Bash, PowerShell and VBA are also in my daily toolbox. Currently exploring Computer Vision (OpenCV) and Practical Machine Learning to build smarter automated solutions.
+I'm Dmitry — a Python Developer with focus on backend & automation. I build tools that solve real tasks — from full-stack web apps to enterprise messenger integrations. I spend about 50% of my workflow working with SQL databases. Git, Docker, Bash and PowerShell are also in my daily toolbox. Currently exploring Computer Vision (OpenCV) and Practical ML to build smarter automated solutions.
 
 ---
 
@@ -15,7 +15,7 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30" /></a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="bash" width="30" height="30" /></a>
   <a href="https://microsoft.com/powershell/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="bash" width="30" height="30" /></a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="bash" width="30" height="30" /></a>  
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="bash" width="30" height="30" /></a>  
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png" alt="git" width="30" height="30" /></a>  
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="git" width="30" height="30" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="git" width="30" height="30" /></a>
