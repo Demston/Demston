@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About me:
 
-My name is Dmitry. I develop applications and maintain services in Python, work with SQL DB, automate routine processes.
+Hi, I'm Dmitry — a Python Developer with focus on backend & automation. I build tools that solve real tasks — from full-stack web apps to enterprise messenger integrations. I spend about 50% of my workflow working with SQL databases. Git, Docker, Bash, PowerShell and VBA are also in my daily toolbox.
 
 ---
 
