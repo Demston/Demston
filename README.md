@@ -9,7 +9,8 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
 ### 💻 Technical skills:
 
 <div>
-  <a href="https://www.git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30" /></a>
+  <a href="https://www.git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30" /></a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="bash" width="30" height="30" /></a>
   <a href="https://microsoft.com/powershell/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="bash" width="30" height="30" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="bash" width="30" height="30" /></a>
