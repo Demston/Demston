@@ -39,5 +39,6 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
  ---
 
 ### 📈️ GitHub statistics:
-</div>
+
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=demston&theme=dark&background=000000" alt="webDev's Github stats" />
+</div>
