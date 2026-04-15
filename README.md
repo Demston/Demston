@@ -1,3 +1,5 @@
+<div>
+
 # Hi!
 
 ---
@@ -25,6 +27,7 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="git" width="30" height="30" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="git" width="30" height="30" /></a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30" /></a>
+</div>
 
 --- 
 
@@ -39,7 +42,6 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
  ---
 
 ### 📈️ GitHub statistics:
-
 
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=demston&theme=dark&background=000000" alt="webDev's Github stats" />
 </div>
