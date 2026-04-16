@@ -10,9 +10,11 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
 
 ### 💻 Technical skills:
 
-<p align="left">
-<a href="https://git-scm.com" target="_blank"><img src="https://vectorlogo.zone" alt="git" width="30" height="30" /></a>&nbsp;<a href="https://gnu.org" target="_blank"><img src="https://vectorlogo.zone" alt="bash" width="30" height="30" /></a>&nbsp;<a href="https://linux.org" target="_blank"><img src="https://vectorlogo.zone" alt="linux" width="30" height="30" /></a>&nbsp;<a href="https://microsoft.com" target="_blank"><img src="https://githubusercontent.com" alt="powershell" width="30" height="30" /></a>&nbsp;<a href="https://visualstudio.com" target="_blank"><img src="https://githubusercontent.com" alt="vscode" width="30" height="30" /></a>&nbsp;<a href="https://jetbrains.com" target="_blank"><img src="https://githubusercontent.com" alt="pycharm" width="30" height="30" /></a>&nbsp;<a href="https://python.org" target="_blank"><img src="https://githubusercontent.com" alt="python" width="30" height="30" /></a>&nbsp;<a href="https://tiangolo.com" target="_blank"><img src="https://githubusercontent.com" alt="fastapi" width="30" height="30" /></a>&nbsp;<a href="https://palletsprojects.com" target="_blank"><img src="https://vectorlogo.zone" alt="flask" width="30" height="30" /></a>&nbsp;<a href="https://whatwg.org" target="_blank"><img src="https://githubusercontent.com" alt="html5" width="30" height="30" /></a>&nbsp;<a href="https://opencv.org" target="_blank"><img src="https://githubusercontent.com" alt="opencv" width="30" height="30" /></a>&nbsp;<a href="https://oracle.com" target="_blank"><img src="https://githubusercontent.com" alt="oracle" width="30" height="30" /></a>&nbsp;<a href="https://microsoft.com" target="_blank"><img src="https://githubusercontent.com" alt="mssql" width="30" height="30" /></a>&nbsp;<a href="https://docker.com" target="_blank"><img src="https://githubusercontent.com" alt="docker" width="30" height="30" /></a>
-</p>
+
+| |
+| :--- |
+| [![git](https://vectorlogo.zone)](https://git-scm.com) [![bash](https://vectorlogo.zone)](https://gnu.org) [![linux](https://vectorlogo.zone)](https://linux.org) [![ps](https://githubusercontent.com)](https://microsoft.com) [![vs](https://githubusercontent.com)](https://visualstudio.com) [![pc](https://githubusercontent.com)](https://jetbrains.com) [![py](https://githubusercontent.com)](https://python.org) [![fa](https://githubusercontent.com)](https://tiangolo.com) [![fl](https://vectorlogo.zone)](https://palletsprojects.com) [![h5](https://githubusercontent.com)](https://whatwg.org) [![cv](https://githubusercontent.com)](https://opencv.org) [![ora](https://githubusercontent.com)](https://oracle.com) [![ms](https://githubusercontent.com)](https://microsoft.com) [![doc](https://githubusercontent.com)](https://docker.com) |
+
 
 
 
