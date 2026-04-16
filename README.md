@@ -30,7 +30,7 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
 ### 🌍 Contacts:
 
 <div>
-  <a href="https://t.me/demston" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="40" alt="telegram group"/></a>
+  <a href="https://t.me/demston" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="35" alt="telegram group"/></a>
 </div>
 
 ---
