@@ -22,6 +22,7 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
   <a href="https://opencv.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" height="35" /></a>
   <a href="https://www.oracle.com/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="oracle" height="35" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" height="35" /></a>
+  <a href="https://grafana.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" alt="oracle" height="35" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="35" /></a>
 </div>
 
