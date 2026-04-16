@@ -8,8 +8,6 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
 
 ### 💻 Technical skills:
 
-### 💻 Technical skills:
-
 [![git](https://vectorlogo.zone)](https://git-scm.com)&nbsp;&nbsp;[![bash](https://vectorlogo.zone)](https://gnu.org)&nbsp;&nbsp;[![linux](https://vectorlogo.zone)](https://linux.org)&nbsp;&nbsp;[![powershell](https://githubusercontent.com)](https://microsoft.com)&nbsp;&nbsp;[![vscode](https://githubusercontent.com)](https://visualstudio.com)&nbsp;&nbsp;[![pycharm](https://githubusercontent.com)](https://jetbrains.com)&nbsp;&nbsp;[![python](https://githubusercontent.com)](https://python.org)&nbsp;&nbsp;[![fastapi](https://githubusercontent.com)](https://tiangolo.com)&nbsp;&nbsp;[![flask](https://vectorlogo.zone)](https://palletsprojects.com)&nbsp;&nbsp;[![html5](https://githubusercontent.com)](https://whatwg.org)&nbsp;&nbsp;[![opencv](https://githubusercontent.com)](https://opencv.org)&nbsp;&nbsp;[![oracle](https://githubusercontent.com)](https://oracle.com)&nbsp;&nbsp;[![sql](https://githubusercontent.com)](https://microsoft.com)&nbsp;&nbsp;[![docker](https://githubusercontent.com)](https://docker.com)
 
 --- 
