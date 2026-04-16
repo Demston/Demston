@@ -10,20 +10,13 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
 
 ### 💻 Technical skills:
 
-<a href="https://git-scm.com" target="_blank"><img src="https://vectorlogo.zone" alt="git" width="30" height="30" /></a><!--
---><a href="https://gnu.org" target="_blank"><img src="https://vectorlogo.zone" alt="bash" width="30" height="30" /></a><!--
---><a href="https://linux.org" target="_blank"><img src="https://vectorlogo.zone" alt="bash" width="30" height="30" /></a><!--
---><a href="https://microsoft.com" target="_blank"><img src="https://github.com" alt="bash" width="30" height="30" /></a><!--
---><a href="https://visualstudio.com" target="_blank"><img src="https://github.com" alt="bash" width="30" height="30" /></a><!--
---><a href="https://jetbrains.com" target="_blank"><img src="https://githubusercontent.com" alt="git" width="30" height="30" /></a><!--
---><a href="https://python.org" target="_blank"><img src="https://githubusercontent.com" alt="git" width="30" height="30" /></a><!--
---><a href="https://tiangolo.com" target="_blank"><img src="https://github.com" alt="git" width="30" height="30" /></a><!--
---><a href="https://palletsprojects.com" target="_blank"><img src="https://vectorlogo.zone" alt="git" width="30" height="30" /></a><!--
---><a href="https://whatwg.org" target="_blank"><img src="https://github.com" alt="git" width="30" height="30" /></a><!--
---><a href="https://opencv.org" target="_blank"><img src="https://github.com" alt="git" width="30" height="30" /></a><!--
---><a href="https://oracle.com" target="_blank"><img src="https://githubusercontent.com" alt="git" width="30" height="30" /></a><!--
---><a href="https://microsoft.com" target="_blank"><img src="https://github.com" alt="git" width="30" height="30" /></a><!--
---><a href="https://docker.com" target="_blank"><img src="https://githubusercontent.com" alt="docker" width="30" height="30" /></a>
+### 💻 Technical skills:
+
+
+| | | | | | | | | | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| [![git](https://vectorlogo.zone)](https://git-scm.com) | [![bash](https://vectorlogo.zone)](https://gnu.org) | [![linux](https://vectorlogo.zone)](https://linux.org) | [![ps](https://github.com)](https://microsoft.com) | [![vs](https://github.com)](https://visualstudio.com) | [![pc](https://githubusercontent.com)](https://jetbrains.com) | [![py](https://githubusercontent.com)](https://python.org) | [![fa](https://github.com)](https://tiangolo.com) | [![fl](https://vectorlogo.zone)](https://palletsprojects.com) | [![h5](https://github.com)](https://whatwg.org) | [![cv](https://github.com)](https://opencv.org) | [![or](https://githubusercontent.com)](https://oracle.com) | [![ms](https://github.com)](https://microsoft.com) | [![dk](https://githubusercontent.com)](https://docker.com) |
+
 
 
 --- 
