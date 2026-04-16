@@ -13,20 +13,20 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
 ### 💻 Technical skills:
 
 <div align="left">
-  <div align="left"><a href="https://git-scm.com" target="_blank"><img src="https://vectorlogo.zone" alt="git" width="30" height="30" /></a></div>
-  <div align="left"><a href="https://gnu.org" target="_blank"><img src="https://vectorlogo.zone" alt="bash" width="30" height="30" /></a></div>
-  <div align="left"><a href="https://linux.org" target="_blank"><img src="https://vectorlogo.zone" alt="bash" width="30" height="30" /></a></div>
-  <div align="left"><a href="https://microsoft.com" target="_blank"><img src="https://github.com" alt="bash" width="30" height="30" /></a></div>
-  <div align="left"><a href="https://visualstudio.com" target="_blank"><img src="https://github.com" alt="bash" width="30" height="30" /></a></div>
-  <div align="left"><a href="https://jetbrains.com" target="_blank"><img src="https://githubusercontent.com" alt="git" width="30" height="30" /></a></div>
-  <div align="left"><a href="https://python.org" target="_blank"><img src="https://githubusercontent.com" alt="git" width="30" height="30" /></a></div>
-  <div align="left"><a href="https://tiangolo.com" target="_blank"><img src="https://github.com" alt="git" width="30" height="30" /></a></div>
-  <div align="left"><a href="https://palletsprojects.com" target="_blank"><img src="https://vectorlogo.zone" alt="git" width="30" height="30" /></a></div>
-  <div align="left"><a href="https://whatwg.org" target="_blank"><img src="https://github.com" alt="git" width="30" height="30" /></a></div>
-  <div align="left"><a href="https://opencv.org" target="_blank"><img src="https://github.com" alt="git" width="30" height="30" /></a></div>
-  <div align="left"><a href="https://oracle.com" target="_blank"><img src="https://githubusercontent.com" alt="git" width="30" height="30" /></a></div>
-  <div align="left"><a href="https://microsoft.com" target="_blank"><img src="https://github.com" alt="git" width="30" height="30" /></a></div>
-  <div align="left"><a href="https://docker.com" target="_blank"><img src="https://githubusercontent.com" alt="docker" width="30" height="30" /></a></div>
+  <a href="https://git-scm.com" target="_blank"><img src="https://vectorlogo.zone" alt="git" width="30" height="30" /></a>
+  <a href="https://gnu.org" target="_blank"><img src="https://vectorlogo.zone" alt="bash" width="30" height="30" /></a>
+  <a href="https://linux.org" target="_blank"><img src="https://vectorlogo.zone" alt="bash" width="30" height="30" /></a>
+  <a href="https://microsoft.com" target="_blank"><img src="https://github.com" alt="bash" width="30" height="30" /></a>
+  <a href="https://visualstudio.com" target="_blank"><img src="https://github.com" alt="bash" width="30" height="30" /></a>
+  <a href="https://jetbrains.com" target="_blank"><img src="https://githubusercontent.com" alt="git" width="30" height="30" /></a>
+  <a href="https://python.org" target="_blank"><img src="https://githubusercontent.com" alt="git" width="30" height="30" /></a>
+  <a href="https://tiangolo.com" target="_blank"><img src="https://github.com" alt="git" width="30" height="30" /></a>
+  <a href="https://palletsprojects.com" target="_blank"><img src="https://vectorlogo.zone" alt="git" width="30" height="30" /></a>
+  <a href="https://whatwg.org" target="_blank"><img src="https://github.com" alt="git" width="30" height="30" /></a>
+  <a href="https://opencv.org" target="_blank"><img src="https://github.com" alt="git" width="30" height="30" /></a>
+  <a href="https://oracle.com" target="_blank"><img src="https://githubusercontent.com" alt="git" width="30" height="30" /></a>
+  <a href="https://microsoft.com" target="_blank"><img src="https://github.com" alt="git" width="30" height="30" /></a>
+  <a href="https://docker.com" target="_blank"><img src="https://githubusercontent.com" alt="docker" width="30" height="30" /></a>
 </div>
 
 
