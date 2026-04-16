@@ -8,7 +8,7 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
 
 ### 💻 Technical skills:
 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
 
 
 --- 
