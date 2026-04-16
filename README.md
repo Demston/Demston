@@ -10,7 +10,25 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
 
 ### 💻 Technical skills:
 
-<a href="https://git-scm.com"><img src="https://vectorlogo.zone" alt="git" width="30" height="30" /></a><a href="https://gnu.org"><img src="https://vectorlogo.zone" alt="bash" width="30" height="30" /></a><a href="https://linux.org"><img src="https://vectorlogo.zone" alt="linux" width="30" height="30" /></a><a href="https://microsoft.com"><img src="https://github.com" alt="ps" width="30" height="30" /></a><a href="https://visualstudio.com"><img src="https://github.com" alt="vs" width="30" height="30" /></a><a href="https://jetbrains.com"><img src="https://githubusercontent.com" alt="pc" width="30" height="30" /></a><a href="https://python.org"><img src="https://githubusercontent.com" alt="py" width="30" height="30" /></a><a href="https://tiangolo.com"><img src="https://github.com" alt="fa" width="30" height="30" /></a><a href="https://palletsprojects.com"><img src="https://vectorlogo.zone" alt="fl" width="30" height="30" /></a><a href="https://whatwg.org"><img src="https://github.com" alt="h5" width="30" height="30" /></a><a href="https://opencv.org"><img src="https://github.com" alt="cv" width="30" height="30" /></a><a href="https://oracle.com"><img src="https://githubusercontent.com" alt="ora" width="30" height="30" /></a><a href="https://microsoft.com"><img src="https://github.com" alt="sql" width="30" height="30" /></a><a href="https://docker.com"><img src="https://githubusercontent.com" alt="doc" width="30" height="30" /></a>
+### 💻 Technical skills:
+
+<div align="left">
+  <div align="left"><a href="https://git-scm.com" target="_blank"><img src="https://vectorlogo.zone" alt="git" width="30" height="30" /></a></div>
+  <div align="left"><a href="https://gnu.org" target="_blank"><img src="https://vectorlogo.zone" alt="bash" width="30" height="30" /></a></div>
+  <div align="left"><a href="https://linux.org" target="_blank"><img src="https://vectorlogo.zone" alt="bash" width="30" height="30" /></a></div>
+  <div align="left"><a href="https://microsoft.com" target="_blank"><img src="https://github.com" alt="bash" width="30" height="30" /></a></div>
+  <div align="left"><a href="https://visualstudio.com" target="_blank"><img src="https://github.com" alt="bash" width="30" height="30" /></a></div>
+  <div align="left"><a href="https://jetbrains.com" target="_blank"><img src="https://githubusercontent.com" alt="git" width="30" height="30" /></a></div>
+  <div align="left"><a href="https://python.org" target="_blank"><img src="https://githubusercontent.com" alt="git" width="30" height="30" /></a></div>
+  <div align="left"><a href="https://tiangolo.com" target="_blank"><img src="https://github.com" alt="git" width="30" height="30" /></a></div>
+  <div align="left"><a href="https://palletsprojects.com" target="_blank"><img src="https://vectorlogo.zone" alt="git" width="30" height="30" /></a></div>
+  <div align="left"><a href="https://whatwg.org" target="_blank"><img src="https://github.com" alt="git" width="30" height="30" /></a></div>
+  <div align="left"><a href="https://opencv.org" target="_blank"><img src="https://github.com" alt="git" width="30" height="30" /></a></div>
+  <div align="left"><a href="https://oracle.com" target="_blank"><img src="https://githubusercontent.com" alt="git" width="30" height="30" /></a></div>
+  <div align="left"><a href="https://microsoft.com" target="_blank"><img src="https://github.com" alt="git" width="30" height="30" /></a></div>
+  <div align="left"><a href="https://docker.com" target="_blank"><img src="https://githubusercontent.com" alt="docker" width="30" height="30" /></a></div>
+</div>
+
 
 --- 
 
