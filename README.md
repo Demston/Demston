@@ -8,8 +8,6 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
 
 ### 💻 Technical skills:
 
-### 💻 Technical skills:
-
 <div>
   <a href="https://git-scm.com" target="_blank"><img align="left" src="https://vectorlogo.zone" alt="git" width="30" height="30" /></a>
   <a href="https://gnu.org" target="_blank"><img align="left" src="https://vectorlogo.zone" alt="bash" width="30" height="30" /></a>
