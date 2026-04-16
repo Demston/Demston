@@ -8,22 +8,22 @@ I'm Dmitry — a Python Developer with focus on backend & automation. I build to
 
 ### 💻 Technical skills:
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top"><a href="https://git-scm.com" target="_blank"><img src="https://vectorlogo.zone" alt="git" width="30" height="30" /></a></td>
-    <td valign="top"><a href="https://gnu.org" target="_blank"><img src="https://vectorlogo.zone" alt="bash" width="30" height="30" /></a></td>
-    <td valign="top"><a href="https://linux.org" target="_blank"><img src="https://vectorlogo.zone" alt="linux" width="30" height="30" /></a></td>
-    <td valign="top"><a href="https://microsoft.com" target="_blank"><img src="https://githubusercontent.com" alt="powershell" width="30" height="30" /></a></td>
-    <td valign="top"><a href="https://visualstudio.com" target="_blank"><img src="https://githubusercontent.com" alt="vscode" width="30" height="30" /></a></td>
-    <td valign="top"><a href="https://jetbrains.com" target="_blank"><img src="https://githubusercontent.com" alt="pycharm" width="30" height="30" /></a></td>
-    <td valign="top"><a href="https://python.org" target="_blank"><img src="https://githubusercontent.com" alt="python" width="30" height="30" /></a></td>
-    <td valign="top"><a href="https://tiangolo.com" target="_blank"><img src="https://githubusercontent.com" alt="fastapi" width="30" height="30" /></a></td>
-    <td valign="top"><a href="https://palletsprojects.com" target="_blank"><img src="https://vectorlogo.zone" alt="flask" width="30" height="30" /></a></td>
-    <td valign="top"><a href="https://whatwg.org" target="_blank"><img src="https://githubusercontent.com" alt="html5" width="30" height="30" /></a></td>
-    <td valign="top"><a href="https://opencv.org" target="_blank"><img src="https://githubusercontent.com" alt="opencv" width="30" height="30" /></a></td>
-    <td valign="top"><a href="https://oracle.com" target="_blank"><img src="https://githubusercontent.com" alt="oracle" width="30" height="30" /></a></td>
-    <td valign="top"><a href="https://microsoft.com" target="_blank"><img src="https://githubusercontent.com" alt="mssql" width="30" height="30" /></a></td>
-    <td valign="top"><a href="https://docker.com" target="_blank"><img src="https://githubusercontent.com" alt="docker" width="30" height="30" /></a></td>
+    <td><a href="https://git-scm.com" target="_blank"><img src="https://vectorlogo.zone" alt="git" width="30" height="30" /></a></td>
+    <td><a href="https://gnu.org" target="_blank"><img src="https://vectorlogo.zone" alt="bash" width="30" height="30" /></a></td>
+    <td><a href="https://linux.org" target="_blank"><img src="https://vectorlogo.zone" alt="linux" width="30" height="30" /></a></td>
+    <td><a href="https://microsoft.com" target="_blank"><img src="https://githubusercontent.com" alt="powershell" width="30" height="30" /></a></td>
+    <td><a href="https://visualstudio.com" target="_blank"><img src="https://githubusercontent.com" alt="vscode" width="30" height="30" /></a></td>
+    <td><a href="https://jetbrains.com" target="_blank"><img src="https://githubusercontent.com" alt="pycharm" width="30" height="30" /></a></td>
+    <td><a href="https://python.org" target="_blank"><img src="https://githubusercontent.com" alt="python" width="30" height="30" /></a></td>
+    <td><a href="https://tiangolo.com" target="_blank"><img src="https://githubusercontent.com" alt="fastapi" width="30" height="30" /></a></td>
+    <td><a href="https://palletsprojects.com" target="_blank"><img src="https://vectorlogo.zone" alt="flask" width="30" height="30" /></a></td>
+    <td><a href="https://whatwg.org" target="_blank"><img src="https://githubusercontent.com" alt="html5" width="30" height="30" /></a></td>
+    <td><a href="https://opencv.org" target="_blank"><img src="https://githubusercontent.com" alt="opencv" width="30" height="30" /></a></td>
+    <td><a href="https://oracle.com" target="_blank"><img src="https://githubusercontent.com" alt="oracle" width="30" height="30" /></a></td>
+    <td><a href="https://microsoft.com" target="_blank"><img src="https://githubusercontent.com" alt="mssql" width="30" height="30" /></a></td>
+    <td><a href="https://docker.com" target="_blank"><img src="https://githubusercontent.com" alt="docker" width="30" height="30" /></a></td>
   </tr>
 </table>
 
