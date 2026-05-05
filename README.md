@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me:
 
-I'm Dmitry — a Python Developer with focus on backend & automation. I build tools that solve real tasks — from full-stack web apps to enterprise messenger integrations. I spend about 50% of my workflow working with SQL databases. Git, Docker, Bash and PowerShell are also in my daily toolbox. Currently exploring Computer Vision (OpenCV) and Practical ML to build smarter automated solutions.
+I'm Dmitry — a Python Developer with focus on backend & automation. I build tools that solve real tasks — from full-stack web apps to enterprise messenger integrations. I spend about 50% of my workflow working with SQL databases. Git, Docker, Bash and PowerShell are also in my daily toolbox. Currently exploring Computer Vision and Practical ML to build smarter automated solutions.
 
 ---
 
