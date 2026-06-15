@@ -28,10 +28,11 @@ Currently exploring Computer Vision and Practical ML to build smarter automated 
 
 --- 
 
-### 🌍 Social Networks:
+### 🌍 Contacts:
 
 <div>
   <a href="https://t.me/demston" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="45" alt="telegram group"/></a>
+  <a href="mailto:demston89@gmail.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" height="45" alt="email"/></a>
 </div>
 
 ---
