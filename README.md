@@ -2,8 +2,8 @@
 
 ### 👨‍💻 About Me:
 
-I'm Dmitry — a Python Developer with focus on backend & automation. I develop backend solutions, design custom integration tools, and support enterprise microservices, while also delivering independent full-stack web applications. I spend about 50% of my workflow working with SQL databases. Git, Docker, Bash and PowerShell are also in my daily toolbox. Currently exploring Computer Vision and Practical ML to build smarter automated solutions.  
-Check out my [IoT and 3D Design Portfolio](https://github.com/Demston/IoT_and_3D_Design_Portfolio) where I combine hard-surface 3D modeling, hardware concepts, and edge computing ideas.
+I'm Dmitry — a Python Developer with focus on backend & automation. I develop backend solutions, design custom integration tools, and support enterprise microservices, while also delivering independent full-stack web applications. I spend about 50% of my workflow working with SQL databases. Git, Docker, Bash and PowerShell are also in my daily toolbox.  
+Currently exploring Computer Vision and Practical ML to build smarter automated solutions. Check out my [IoT and 3D Design Portfolio](https://github.com/Demston/IoT_and_3D_Design_Portfolio) where I combine hard-surface 3D modeling, hardware concepts, and edge computing ideas.
 
 ---
 
